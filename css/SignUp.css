@@ -56,7 +56,7 @@ form .checkbox{
 }
 form .checkbox label{
     cursor: pointer;
-    color: #3B306B;
+    color: #b8b8b8;
 }
 form input[type="submit"]{
     padding: none;
